@@ -38,6 +38,8 @@
 #endif
 #endif
 
+#undef interface
+
 namespace aa {
 
 // May be specialized for your Method or even for Any with some properties.
