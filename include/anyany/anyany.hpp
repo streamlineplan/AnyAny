@@ -38,6 +38,7 @@
 #endif
 #endif
 
+// macros in windows headers, compile conflict with alias
 #undef interface
 
 namespace aa {
